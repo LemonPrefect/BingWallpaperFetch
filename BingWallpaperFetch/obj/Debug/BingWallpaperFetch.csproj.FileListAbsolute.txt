@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\bin\Debug\BingWallpaperFetch.exe.config
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\bin\Debug\BingWallpaperFetch.exe
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\bin\Debug\BingWallpaperFetch.pdb
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\bin\Debug\Flurl.dll
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\bin\Debug\Flurl.Http.dll
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\bin\Debug\Flurl.xml
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\bin\Debug\Flurl.Http.xml
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\obj\Debug\BingWallpaperFetch.csproj.CopyComplete
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\obj\Debug\BingWallpaperFetch.exe
+C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\obj\Debug\BingWallpaperFetch.pdb
