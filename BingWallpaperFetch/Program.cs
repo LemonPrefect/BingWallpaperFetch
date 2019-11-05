@@ -79,6 +79,10 @@ namespace BingWallpaperFetch
             annouceIcon.ShowBalloonTip(1);
             annouceIcon.Visible = false;
             annouceIcon.Dispose();
+            if(iconType == ToolTipIcon.Error)
+            {
+                Thread.CurrentThread.Abort();
+            }
             return true;
         }
         public static bool WallpaperWebFetch(int idx,ref Wallpaper[] wallpaperFetched,string[] regionIds)
