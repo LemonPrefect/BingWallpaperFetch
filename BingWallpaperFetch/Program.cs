@@ -27,6 +27,7 @@ namespace BingWallpaperFetch{
             "240x320"
         };
 
+        private static int CHECKLOGSAVETIMESPAN = 100;
         public static string[] regionId = new[]{"cn", "tw", "jp", "us"};
 
         public struct Wallpaper{
@@ -170,7 +171,7 @@ namespace BingWallpaperFetch{
                         TimeSpan itemSpan = Convert.ToDateTime(DateTime.Now).Subtract(
                             DateTime.ParseExact((string) ((JArray) comparePool["items"])[i]["fetchDate"], "yyyyMMdd",
                                 System.Globalization.CultureInfo.InvariantCulture));
-                        if (itemSpan.Days >= 10){
+                        if (itemSpan.Days >= CHECKLOGSAVETIMESPAN){
                             continue;
                         }
                         

@@ -10,3 +10,16 @@ C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\bin\Release\N
 C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\obj\Release\BingWallpaperFetch.csproj.CopyComplete
 C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\obj\Release\BingWallpaperFetch.exe
 C:\Users\lenovo\source\repos\BingWallpaperFtech\BingWallpaperFtech\obj\Release\BingWallpaperFetch.pdb
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\bin\Release\BingWallpaperFetch.exe.config
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\bin\Release\BingWallpaperFetch.exe
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\bin\Release\BingWallpaperFetch.pdb
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\bin\Release\Flurl.dll
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\bin\Release\Flurl.Http.dll
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\bin\Release\Newtonsoft.Json.dll
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\bin\Release\Flurl.xml
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\bin\Release\Flurl.Http.xml
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\bin\Release\Newtonsoft.Json.xml
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\obj\Release\BingWallpaperFetch.csprojAssemblyReference.cache
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\obj\Release\BingWallpaperFetch.csproj.CopyComplete
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\obj\Release\BingWallpaperFetch.exe
+F:\GithubProjects\BingWallpaperFetch\BingWallpaperFetch\obj\Release\BingWallpaperFetch.pdb
